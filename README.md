@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello Everyone :wave:
+- 🔭 I’m currently working on Github courses 
+- 🌱 I’m currently learning how to use Github
+- ⚡ Fun fact: On a mission to break stigmas and get out of the "rat race"
+
 
 <!--
 **learningtocodetoday/learningtocodetoday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
